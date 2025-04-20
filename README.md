@@ -90,3 +90,9 @@ Para interligar a API com comandos do **StreamElements** ou **Nightbot**, você 
 Você pode acessar a documentação completa e os comandos prontos para copiar e colar diretamente no [site oficial da API](https://novaisapi.onrender.com).
 
 ---
+
+##  Contato
+
+Para dúvidas, sugestões ou contribuições, fique à vontade para entrar em contato através do meu Discord: `9aiss`. Estou à disposição para discutir melhorias e responder quaisquer questões relacionadas à API e ao projeto.
+
+---
